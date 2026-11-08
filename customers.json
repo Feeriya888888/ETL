@@ -1,0 +1,38 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "Анна Смирнова",
+    "city": "Санкт-Петербург",
+    "segment": "VIP"
+  },
+  {
+    "customer_id": "C002",
+    "name": "Иван Петров",
+    "city": "санкт-петербург",
+    "segment": "regular"
+  },
+  {
+    "customer_id": "C003",
+    "name": "Мария Козлова",
+    "city": "Москва",
+    "segment": "REGULAR"
+  },
+  {
+    "customer_id": "C004",
+    "name": "Олег Дубов",
+    "city": "Казань",
+    "segment": "vip"
+  },
+  {
+    "customer_id": "C005",
+    "name": "Елена Ким",
+    "city": "Новосибирск",
+    "segment": "regular"
+  },
+  {
+    "customer_id": "C007",
+    "name": "Пётр Ильин",
+    "city": "Екатеринбург",
+    "segment": "regular"
+  }
+]
